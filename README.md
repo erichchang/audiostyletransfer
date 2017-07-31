@@ -22,11 +22,3 @@
 *Tonnetz* is a diagram that shows tones in space without using frequency numbers. It was first introduced by Euler to show tonal space and tone relationships in terms of thirds or fifths. In this experiment, tonnetz are used to change the loss function of sound.
 
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/TonnetzTorus.gif" width="600"> </p>
-
-# Goals
-
-* speed optimization
-
-* processing longer audio
-
-* producing better results by pre-processing the content & style
