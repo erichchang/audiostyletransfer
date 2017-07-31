@@ -22,3 +22,6 @@
 *Tonnetz* is a diagram that shows tones in space without using frequency numbers. It was first introduced by Euler to show tonal space and tone relationships in terms of thirds or fifths. In this experiment, tonnetz are used to change the loss function of sound.
 
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/TonnetzTorus.gif" width="600"> </p>
+
+# Pitch Shift
+Librosa’s pitch shift takes the audio track inputted and lowers the pitches up or down based on the stated amount of half-steps. For example, a pitch shift of -6 would shift the audio 6 half-steps down and a pitch shift of 6 would shift the audio 6 half-steps up. Pitch shift was used to change the pitches of the style to decrease the amount of noise distortion in the content after the style transfer. The magnitude of the pitch shift was determined based on the song.
